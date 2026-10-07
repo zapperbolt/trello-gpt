@@ -1,0 +1,8 @@
+.env
+.env.*
+.envc
+*.save
+trello_export.json
+.venv/
+__pycache__/
+*.py[cod]
